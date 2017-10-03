@@ -3,7 +3,6 @@ package Core;
 import java.io.Serializable;
 // prova lavatrice avete seguito il discorso
 // no
-// la lavatrice è patrimonio dell'umanità
 
 public enum Clients implements Serializable {
 Admin,Librarian,Reader,Guest,Default
